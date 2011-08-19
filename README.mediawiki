@@ -1,2 +1,0 @@
-= Acknowledgements =
-This project is based on Todoroo's [[astrid.com Astrid]] application and Gina Trapani's [[todotxt.com Todo.txt]]. Their source code can be found at [[github.com/todoroo/astrid]], [[github.com/ginatrapani/todo.txt-touch]], and [[github.com/ginatrapani/todo.txt-cli]].
